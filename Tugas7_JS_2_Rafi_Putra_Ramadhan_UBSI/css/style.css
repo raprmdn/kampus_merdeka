@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #EEF0F8;
+}
+
+.container {
+    max-width: 1500px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 8px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 1.75rem;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 7px;
+    overflow: hidden;
+    font-size: 0.9em;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
