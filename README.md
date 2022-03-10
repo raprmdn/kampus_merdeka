@@ -1,5 +1,9 @@
 ## Kampus Merdeka - SIB Fullstack Web Developer - NF Computer
 
+
+### **Pertemuan Kamis 10 Maret 2022**
+- [RWD - Bootstrap - Tugas 1 (Branch : RWD_Tugas1](https://github.com/raprmdn/kampus_merdeka/tree/RWD_Tugas1/Tugas1_RWD_2_Rafi_Putra_Ramadhan_UBSI)
+
 ### **Pertemuan Rabu 09 Maret 2022**
 - [JavaScript - Tugas 8 (Branch : JS_Tugas8](https://github.com/raprmdn/kampus_merdeka/tree/JS_Tugas8/Tugas8_JS_2_Rafi_Putra_Ramadhan_UBSI)
 
